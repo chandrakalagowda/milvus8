@@ -1,3 +1,2 @@
 this is a test for  version1
-a change to check for version2
-a change to check for version3
+a change to check
